@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Hello, I am Joshua Coquia.
+## About Me
+- I am 14 years old.
+- I identify as male (he, him).
+- I want to become a **Web Developer**.
+- I work most with **TypeScript**.
+<!-- Template text below: -->
 <!--
 **JoshuaCoquia/JoshuaCoquia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
