@@ -2,8 +2,11 @@
 ## About Me
 - I am 15 years old.
 - I identify as male (he, him).
-- I want to become a **Web Developer**.
+- I am considering a **Web Developer**.
 - I work most with **TypeScript**.
+
+## Current Projects
+- Quiz App (Private Repo)
 <!-- Template text below: -->
 <!--
 **JoshuaCoquia/JoshuaCoquia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
