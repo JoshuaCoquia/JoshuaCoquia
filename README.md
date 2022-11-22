@@ -1,8 +1,7 @@
 # Hello, I am Joshua Coquia.
 ## About Me
-- I am 15 years old.
+- I am 16 years old.
 - I identify as male (he, him).
-- I am considering becoming a **Web Developer**.
 - I work most with **TypeScript**.
 
 <!-- Template text below: -->
