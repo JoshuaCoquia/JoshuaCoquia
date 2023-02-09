@@ -3,6 +3,8 @@
 - I am 16 years old.
 - I identify as male (he, him).
 - I work most with **TypeScript**.
+- I'm currently working on a website.
+- Reach me at my email: joshua.coquia@hotmail.com
 
 <!-- Template text below: -->
 <!--
