@@ -1,9 +1,10 @@
 # Hello, I am Joshua Coquia.
+Check out my website at joshuacoquia.com for detailed information about me.
 ## About Me
-- I am 16 years old.
+- I am a highschool student.
+- I use [Astro](astro.build) and [React](react.dev) to create websites.
+  - I use these for my personal website.
 - I identify as male (he, him).
-- I work most with **TypeScript**.
-- I'm currently working on a website.
 - Reach me at my email: joshua.coquia@hotmail.com
 
 <!-- Template text below: -->
