@@ -1,5 +1,5 @@
 # Hello, I am Joshua Coquia.
-Check out my website at joshuacoquia.com for detailed information about me.
+Check out my website at [joshuacoquia.com](https://joshuacoquia.com) for detailed information about me.
 ## About Me
 - I am a highschool student.
 - I use [Astro](astro.build) and [React](react.dev) to create websites.
