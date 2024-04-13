@@ -4,7 +4,7 @@ Check out my website at [joshuacoquia.com](https://joshuacoquia.com) for detaile
 
 ## About Me
 
-- I use [Astro](astro.build) and [React](react.dev) to create websites.
+- I use [Astro](https://astro.build) and [React](https://react.dev) to create websites.
 - I can solve the Rubik's Cube. Check out my [WCA Profile](https://www.worldcubeassociation.org/persons/2023COQU02).
 - Pronouns: he/him
 - Reach me at my email: joshua.coquia@hotmail.com
