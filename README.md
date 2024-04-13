@@ -1,9 +1,12 @@
 # Hello, I am Joshua Coquia.
+
 Check out my website at [joshuacoquia.com](https://joshuacoquia.com) for detailed information about me.
+
 ## About Me
+
 - I use [Astro](astro.build) and [React](react.dev) to create websites.
-  - I use these for my personal website.
-- I identify as male (he, him).
+- I can solve the Rubik's Cube. Check out my [WCA Profile](https://www.worldcubeassociation.org/persons/2023COQU02).
+- Pronouns: he/him
 - Reach me at my email: joshua.coquia@hotmail.com
 
 <!-- Template text below: -->
