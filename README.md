@@ -3,7 +3,7 @@ CS Student @ UC Merced | Front-End Web Developer
 
 ## About Me
 
-Hey there! I've been programming since I learned about Code.org in my grade school's computer lab. I'm now a computer science student, and I spend my free time on personal projects, focusing on learning front-end web development web development skills. I also use Figma to create component designs and website mockups.
+Hey there! I've been programming since I learned about Code.org in my grade school's computer lab. I'm now a computer science student, and I spend my free time on personal projects, focusing on learning front-end web development skills. I also use Figma to create component designs and website mockups.
 
 ## Skills
 
